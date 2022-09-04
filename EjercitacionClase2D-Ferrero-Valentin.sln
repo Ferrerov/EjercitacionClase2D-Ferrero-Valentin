@@ -3,23 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I01_MaximoMinimoYPromedio", "Introduccion a .NET y C#\I01_MaximoMinimoYPromedio\I01_MaximoMinimoYPromedio.csproj", "{53B32906-F098-4C22-B240-5079EDB788BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I01_MaximoMinimoYPromedio", "Introduccion a .NET y C#\I01_MaximoMinimoYPromedio\I01_MaximoMinimoYPromedio.csproj", "{53B32906-F098-4C22-B240-5079EDB788BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I02_ErrorAlCubo", "Introduccion a .NET y C#\I02_ErrorAlCubo\I02_ErrorAlCubo.csproj", "{08ACC7E6-793F-4A90-9CD6-12F02292FA3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I02_ErrorAlCubo", "Introduccion a .NET y C#\I02_ErrorAlCubo\I02_ErrorAlCubo.csproj", "{08ACC7E6-793F-4A90-9CD6-12F02292FA3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I03_LosPrimos", "Introduccion a .NET y C#\I03_LosPrimos\I03_LosPrimos.csproj", "{E9D2C83E-6E7A-402C-8378-A3F23F7F2460}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I03_LosPrimos", "Introduccion a .NET y C#\I03_LosPrimos\I03_LosPrimos.csproj", "{E9D2C83E-6E7A-402C-8378-A3F23F7F2460}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I04_UnNumeroPerfecto", "Introduccion a .NET y C#\I04_UnNumeroPerfecto\I04_UnNumeroPerfecto.csproj", "{7CF846A8-97D5-4488-9D4C-3C386AE183C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I04_UnNumeroPerfecto", "Introduccion a .NET y C#\I04_UnNumeroPerfecto\I04_UnNumeroPerfecto.csproj", "{7CF846A8-97D5-4488-9D4C-3C386AE183C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I05_TirameUnCentro", "Introduccion a .NET y C#\I05_TirameUnCentro\I05_TirameUnCentro.csproj", "{327CE0E5-0847-41CB-957F-1767AFEB85C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I05_TirameUnCentro", "Introduccion a .NET y C#\I05_TirameUnCentro\I05_TirameUnCentro.csproj", "{327CE0E5-0847-41CB-957F-1767AFEB85C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I06_AniosBisiestos", "Introduccion a .NET y C#\I06_AniosBisiestos\I06_AniosBisiestos.csproj", "{C02BC9AB-5DAD-47AA-8219-57A37548AE50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I06_AniosBisiestos", "Introduccion a .NET y C#\I06_AniosBisiestos\I06_AniosBisiestos.csproj", "{C02BC9AB-5DAD-47AA-8219-57A37548AE50}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Introduccion a .NET y Csharp", "Introduccion a .NET y Csharp", "{18051F65-B0BC-482D-8C1E-C1C577DE03CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I01_ValidadorDeRangos", "Clases y metodos estaticos\I01_ValidadorDeRangos\I01_ValidadorDeRangos.csproj", "{5E3145D8-08E3-458E-BBEA-3555585FAE3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I01_ValidadorDeRangos", "Clases y metodos estaticos\I01_ValidadorDeRangos\I01_ValidadorDeRangos.csproj", "{5E3145D8-08E3-458E-BBEA-3555585FAE3C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clases y metodos estaticos", "Clases y metodos estaticos", "{89B11E96-D985-4CF4-973A-ACE3BA08E872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I02_DeseaContinuar", "Clases y metodos estaticos\I02_DeseaContinuar\I02_DeseaContinuar.csproj", "{F4256DD5-1CE1-4BC8-80D8-B166EB77D040}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +57,10 @@ Global
 		{5E3145D8-08E3-458E-BBEA-3555585FAE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E3145D8-08E3-458E-BBEA-3555585FAE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E3145D8-08E3-458E-BBEA-3555585FAE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4256DD5-1CE1-4BC8-80D8-B166EB77D040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4256DD5-1CE1-4BC8-80D8-B166EB77D040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4256DD5-1CE1-4BC8-80D8-B166EB77D040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4256DD5-1CE1-4BC8-80D8-B166EB77D040}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +73,7 @@ Global
 		{327CE0E5-0847-41CB-957F-1767AFEB85C7} = {18051F65-B0BC-482D-8C1E-C1C577DE03CE}
 		{C02BC9AB-5DAD-47AA-8219-57A37548AE50} = {18051F65-B0BC-482D-8C1E-C1C577DE03CE}
 		{5E3145D8-08E3-458E-BBEA-3555585FAE3C} = {89B11E96-D985-4CF4-973A-ACE3BA08E872}
+		{F4256DD5-1CE1-4BC8-80D8-B166EB77D040} = {89B11E96-D985-4CF4-973A-ACE3BA08E872}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {19D454BF-6F7E-4C14-96C1-CCD4E32F181B}
