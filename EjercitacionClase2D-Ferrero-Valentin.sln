@@ -21,7 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I01_ValidadorDeRangos", "Cl
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clases y metodos estaticos", "Clases y metodos estaticos", "{89B11E96-D985-4CF4-973A-ACE3BA08E872}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I02_DeseaContinuar", "Clases y metodos estaticos\I02_DeseaContinuar\I02_DeseaContinuar.csproj", "{F4256DD5-1CE1-4BC8-80D8-B166EB77D040}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I02_DeseaContinuar", "Clases y metodos estaticos\I02_DeseaContinuar\I02_DeseaContinuar.csproj", "{F4256DD5-1CE1-4BC8-80D8-B166EB77D040}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjercicioEnClase_LaMaquinaExpendedora", "Colecciones\EjercicioEnClase_LaMaquinaExpendedora\EjercicioEnClase_LaMaquinaExpendedora.csproj", "{C5531F3D-DB01-4097-9A80-BDFA33B9ECD1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Colecciones", "Colecciones", "{6D7B4CD7-D9E6-4AA0-972A-219CEE4F1941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I01_Sobre-EscribiendoEsasAdvertencias", "Polimorfismo\I01_Sobre-EscribiendoEsasAdvertencias\I01_Sobre-EscribiendoEsasAdvertencias.csproj", "{71E00335-D3CF-4A89-BD7B-C4DFE19DE57C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +67,14 @@ Global
 		{F4256DD5-1CE1-4BC8-80D8-B166EB77D040}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4256DD5-1CE1-4BC8-80D8-B166EB77D040}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4256DD5-1CE1-4BC8-80D8-B166EB77D040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5531F3D-DB01-4097-9A80-BDFA33B9ECD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5531F3D-DB01-4097-9A80-BDFA33B9ECD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5531F3D-DB01-4097-9A80-BDFA33B9ECD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5531F3D-DB01-4097-9A80-BDFA33B9ECD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E00335-D3CF-4A89-BD7B-C4DFE19DE57C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E00335-D3CF-4A89-BD7B-C4DFE19DE57C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E00335-D3CF-4A89-BD7B-C4DFE19DE57C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E00335-D3CF-4A89-BD7B-C4DFE19DE57C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +88,7 @@ Global
 		{C02BC9AB-5DAD-47AA-8219-57A37548AE50} = {18051F65-B0BC-482D-8C1E-C1C577DE03CE}
 		{5E3145D8-08E3-458E-BBEA-3555585FAE3C} = {89B11E96-D985-4CF4-973A-ACE3BA08E872}
 		{F4256DD5-1CE1-4BC8-80D8-B166EB77D040} = {89B11E96-D985-4CF4-973A-ACE3BA08E872}
+		{C5531F3D-DB01-4097-9A80-BDFA33B9ECD1} = {6D7B4CD7-D9E6-4AA0-972A-219CEE4F1941}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {19D454BF-6F7E-4C14-96C1-CCD4E32F181B}
